@@ -1,0 +1,5 @@
+TREES
+-----A tree is a non linear data structure where the elemenyts i a hyerical order
+a tree is a dprcial kind of graph in wjicj v vertix are ther and v - 1 edges
+
+
